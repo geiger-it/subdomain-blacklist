@@ -43,6 +43,7 @@ ballsack
 bank
 base
 bastard
+bbs
 beginner
 beta
 biatch
@@ -139,6 +140,7 @@ encrypted
 engine
 error
 errorlog
+exchange
 f
 fag
 faggot
@@ -178,10 +180,14 @@ gov
 graph
 group
 h
+hack
+hacked
 hell
 help
 home
 homo
+host
+host1
 html
 htrnl
 http
@@ -223,6 +229,7 @@ login
 logout
 m
 mail
+mail2
 malware
 manage
 manager
@@ -241,6 +248,7 @@ movie
 muff
 my
 mystore
+mx
 n
 net
 network
@@ -250,6 +258,10 @@ nigga
 nigger
 npm
 ns
+ns1
+ns2
+ns3
+ns4
 omg
 o
 online
@@ -282,6 +294,9 @@ pop
 pop3
 popular
 porn
+portal
+powned
+pownd
 pr0n
 pricing
 prick
@@ -301,7 +316,10 @@ pube
 public
 purchase
 pussy
+pwn
+pwned
 q
+qa
 queer
 querie
 queries
@@ -315,6 +333,7 @@ redirect
 register
 registration
 release
+remote
 report
 research
 resolve
@@ -343,6 +362,7 @@ shopping
 shortcut
 signin
 signup
+sip
 site
 sitemap
 sitenew
@@ -409,9 +429,12 @@ vid
 video
 video-stat
 voice
+vpn
+vps
 w
 wank
 wave
+web
 webdisk
 webmail
 webmaster
@@ -425,6 +448,7 @@ wtf
 w2
 w3
 ww
+ww1
 www
 www2
 www3
